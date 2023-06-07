@@ -1,3 +1,1 @@
-Folder ini untuk menyimpan hasil pengolahan data
-File ditulis dengan format : namafile_Nim
-contoh:  penjualan_12345.csv
+Folder ini untuk menyimpan file hasil tugas dan UAS
